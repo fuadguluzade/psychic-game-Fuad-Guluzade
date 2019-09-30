@@ -1,0 +1,50 @@
+body {
+    box-sizing: content-box;
+}
+
+header {
+    text-align: center;
+    background-color: lightgrey;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 500;
+    padding: 20px;
+    font-family: 'Orbitron', Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Quicksand', Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 660px;
+}
+
+.headWords {
+    font-size: 40px;
+    color: aquamarine;
+    width: 100%;
+}
+
+.counters {
+    float: left;
+    margin-top: 160px;
+    line-height: 50px;
+}
+
+.playzone {
+    float: right;
+    margin-top: 160px;
+    line-height: 50px;
+}
+
+.greenColor {
+    color: green;
+}
+
+.redColor {
+    color: red;
+}
